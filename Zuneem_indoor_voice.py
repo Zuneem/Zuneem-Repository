@@ -4,4 +4,5 @@ def indoor_voice():
     return lower_words
 
 if __name__ == '__main__':
-    print(indoor_voice())
+    return(indoor_voice())
+    
